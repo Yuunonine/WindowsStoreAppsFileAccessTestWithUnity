@@ -5,3 +5,6 @@
 *.sln
 [Aa]pp/
 *.pfx
+*.pfx.meta
+*.sln*
+[Tt]emp
